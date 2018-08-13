@@ -1,6 +1,6 @@
 # sample-maven-junit-war
 
-**************pom.xml******************************
+#**************pom.xml******************************
 <project>
   
 # 4.11 to generate Test result in xml amd txt format
@@ -28,7 +28,7 @@
   </reporting>
   
 </project>
-**********************************************************
+# **********************************************************
 #
 # mvn clean test surefire-report:report
 #
