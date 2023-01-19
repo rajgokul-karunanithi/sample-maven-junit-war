@@ -58,7 +58,4 @@
         </plugins>
     </build>
 
-  <build>
-    <finalName>junitmaven</finalName>
-  </build>
 </project>
